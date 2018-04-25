@@ -12,3 +12,6 @@ A visualization dashboard website using visualizations from [weather analysis ne
 
 This dashboard includes individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. 
 
+![alt text](https://raw.githubusercontent.com/david880110/API/master/output_12_0.png) ![alt text](https://raw.githubusercontent.com/david880110/API/master/output_14_0.png)
+![alt text](https://raw.githubusercontent.com/david880110/API/master/output_16_0.png) ![alt text](https://raw.githubusercontent.com/david880110/API/master/output_18_0.png)
+
