@@ -1,5 +1,7 @@
 ## Lattitude - Latitude Analysis Dashboard with Attitude
 
+### What's the weather like as we approach the equator?
+
 ![alt text](http://www.electricbluefishing.com/images/elnin9.gif)
 
 A visualization dashboard website using visualizations from [weather analysis near equator](https://github.com/david880110/API).
